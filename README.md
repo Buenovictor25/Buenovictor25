@@ -53,8 +53,7 @@ Production-ready SaaS platform with authentication, dashboards and API integrati
 ### 🔹 Developer Portfolio
 Modern developer portfolio built with Next.js and TypeScript  
 🔗 Repository: https://github.com/Buenovictor25/portfolio  
-🌐 Live: https://portfolio-p376zgqd4-buenovictor25s-projects.vercel.app/
-
+🌐 Live: https://portfolio-ashy-two-63.vercel.app/
 ---
 
 ### 🔹 Python Automation & Data
